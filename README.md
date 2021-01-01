@@ -1,5 +1,6 @@
 # POC_Device_SysML_Model
 SysML Model of a Point-of-care sepsis testing device (System Architecture Model + Risk Management Model)
+Download and open in IBM Rational Rhapsody 8.4 and above.
 
 SysML Model Copyright © 2021 Y. Uludağ, E. Evin and N.G. Gürbüz
 

@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 8f24decc-270b-4d20-959f-c0c192cc8453</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">6.2.2020::11:56:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.2.2020::11:58:3</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 2c4da55e-d278-449c-a29f-bb19f7eabe35</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">56</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hname type="a">SysML</_hname>
+							<_hid type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\CGCompatibilityPre812Cpp.sbsx</_hfilename>
+							<_hname type="a">CGCompatibilityPre812Cpp</_hname>
+							<_hid type="a">GUID 3026d3ea-02b4-49ae-b086-6982c27412f0</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\CGCompatibilityPre813Cpp.sbsx</_hfilename>
+							<_hname type="a">CGCompatibilityPre813Cpp</_hname>
+							<_hid type="a">GUID 803c9619-7509-44c3-bfdf-6fee2352ab55</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\CGCompatibilityPre814Cpp.sbsx</_hfilename>
+							<_hname type="a">CGCompatibilityPre814Cpp</_hname>
+							<_hid type="a">GUID cffbed2a-cf85-4cf9-9c94-13d34d25c47b</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\CGCompatibilityPre815Cpp.sbsx</_hfilename>
+							<_hname type="a">CGCompatibilityPre815Cpp</_hname>
+							<_hid type="a">GUID 9d010694-7844-4cae-a420-3b25ad4f4244</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\CGCompatibilityPre82Cpp.sbsx</_hfilename>
+							<_hname type="a">CGCompatibilityPre82Cpp</_hname>
+							<_hid type="a">GUID 40cbe594-82cd-42e6-be5a-cbec76e87570</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\CGCompatibilityPre821Cpp.sbsx</_hfilename>
+							<_hname type="a">CGCompatibilityPre821Cpp</_hname>
+							<_hid type="a">GUID 00b0140e-6d06-4d19-ba99-8a8e40131db7</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\GECompatibilityPre831.sbsx</_hfilename>
+							<_hname type="a">GECompatibilityPre831</_hname>
+							<_hid type="a">GUID 0a931094-5e7d-4d59-83e8-247a645b1176</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\CGCompatibilityPre831Cpp.sbsx</_hfilename>
+							<_hname type="a">CGCompatibilityPre831Cpp</_hname>
+							<_hid type="a">GUID 393f0af9-b382-4c3e-aa31-ad304f2ac38c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">.\RiskManagement.sbsx</_hfilename>
+							<_hname type="a">RiskManagement</_hname>
+							<_hid type="a">GUID 4ba4a50d-109b-4cf7-bc30-5ebfe1d04c64</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\FTA.sbsx</_hfilename>
+							<_hsubsystem type="a">RiskManagement</_hsubsystem>
+							<_hname type="a">FTA</_hname>
+							<_hid type="a">GUID 308488c7-b031-49ff-a5f5-d670bbd74558</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ActorsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg</_hsubsystem>
+							<_hname type="a">ActorsPkg</_hname>
+							<_hid type="a">GUID 37ec89fd-fbcd-4d16-8e1a-a800eea68702</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\UseCasesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg</_hsubsystem>
+							<_hname type="a">UseCasesPkg</_hname>
+							<_hid type="a">GUID fdb5fb65-5f02-4809-9745-1349dc72d242</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\UCDetectMoleculePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::UseCasesPkg</_hsubsystem>
+							<_hname type="a">UCDetectMoleculePkg</_hname>
+							<_hid type="a">GUID c4b018c8-8baa-49f8-8bbc-7bea52af679a</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\SystemPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg</_hsubsystem>
+							<_hname type="a">SystemPkg</_hname>
+							<_hid type="a">GUID f68761ea-2afd-48c9-8f7c-fc0bb3a30c96</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\SystemContextPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg</_hsubsystem>
+							<_hname type="a">SystemContextPkg</_hname>
+							<_hid type="a">GUID 045b331c-01e3-4b2c-9b43-112b18e060d5</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OperationAnalysesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::LogicalModelPkg</_hsubsystem>
+							<_hname type="a">OperationAnalysesPkg</_hname>
+							<_hid type="a">GUID 8ef6ef53-5b6c-406f-985d-49da44e89186</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OA_BSS_DesorbMicroFProtocolPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::LogicalModelPkg::OperationAnalysesPkg</_hsubsystem>
+							<_hname type="a">OA_BSS_DesorbMicroFProtocolPkg</_hname>
+							<_hid type="a">GUID 5817d5b8-e032-4f1b-a235-30f127e264cb</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OA_BSS_PrimeMicroFProtocolPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::LogicalModelPkg::OperationAnalysesPkg</_hsubsystem>
+							<_hname type="a">OA_BSS_PrimeMicroFProtocolPkg</_hname>
+							<_hid type="a">GUID e2a4fac7-7e04-4af4-b3a0-dc3e5302592d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OA_BSS_PerformBiochipQCProtocolPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::LogicalModelPkg::OperationAnalysesPkg</_hsubsystem>
+							<_hname type="a">OA_BSS_PerformBiochipQCProtocolPkg</_hname>
+							<_hid type="a">GUID 6d8091a1-e819-4eff-9d40-c2242112ffd3</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OA_BSS_SetAssayProtocolPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::LogicalModelPkg::OperationAnalysesPkg</_hsubsystem>
+							<_hname type="a">OA_BSS_SetAssayProtocolPkg</_hname>
+							<_hid type="a">GUID 90cf9a27-b67e-4da3-9d70-ee84f1a613dc</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OA_BSS_RunAssayProtocolPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::LogicalModelPkg::OperationAnalysesPkg</_hsubsystem>
+							<_hname type="a">OA_BSS_RunAssayProtocolPkg</_hname>
+							<_hid type="a">GUID df1611a2-0b27-49e6-b14e-a268ab0510f4</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\LogicalElementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::LogicalModelPkg</_hsubsystem>
+							<_hname type="a">LogicalElementsPkg</_hname>
+							<_hid type="a">GUID 8b108aa4-62b3-44b3-a329-5b1f14c439c8</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OperationDesignsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg</_hsubsystem>
+							<_hname type="a">OperationDesignsPkg</_hname>
+							<_hid type="a">GUID 6246e4d9-84e3-4686-9fcf-9518568d2148</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_LogicalElementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg</_hsubsystem>
+							<_hname type="a">OD_LogicalElementsPkg</_hname>
+							<_hid type="a">GUID 5300472a-e61f-4e8d-8cab-409751c56672</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_OperatorControllerPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg</_hsubsystem>
+							<_hname type="a">OD_OperatorControllerPkg</_hname>
+							<_hid type="a">GUID 48b9b82f-4f93-46ed-bfa3-53098ed51823</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_OC_RunAssayProtocolPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_OperatorControllerPkg</_hsubsystem>
+							<_hname type="a">OD_OC_RunAssayProtocolPkg</_hname>
+							<_hid type="a">GUID e7a33656-fa6c-4238-a656-4bafdb79be1a</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_OC_DisplayBioChipSignalPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_OperatorControllerPkg</_hsubsystem>
+							<_hname type="a">OD_OC_DisplayBioChipSignalPkg</_hname>
+							<_hid type="a">GUID e07cdc4a-d57f-4ed4-b871-04ee0e9f3f16</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_ChemicalSelectorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg</_hsubsystem>
+							<_hname type="a">OD_ChemicalSelectorPkg</_hname>
+							<_hid type="a">GUID b873b3ae-91a8-45be-bff8-aaa65b29ca1f</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_CS_SelectChemicalPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_ChemicalSelectorPkg</_hsubsystem>
+							<_hname type="a">OD_CS_SelectChemicalPkg</_hname>
+							<_hid type="a">GUID 0905c043-9750-4935-8401-1db2dcce81c8</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_InjectorDesignPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg</_hsubsystem>
+							<_hname type="a">OD_InjectorDesignPkg</_hname>
+							<_hid type="a">GUID 42c8fe65-132e-4dca-88fd-3e3892f8a161</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_INJ_InjectChemicalToBioDetectorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_InjectorDesignPkg</_hsubsystem>
+							<_hname type="a">OD_INJ_InjectChemicalToBioDetectorPkg</_hname>
+							<_hid type="a">GUID 63d8f6be-87ba-47a6-8391-b0cd5e652258</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_AnalyserDesignPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg</_hsubsystem>
+							<_hname type="a">OD_AnalyserDesignPkg</_hname>
+							<_hid type="a">GUID 8bb426b8-dcdf-44e1-93cc-003ec56d6542</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\OD_AN_PerformAnalysisPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_AnalyserDesignPkg</_hsubsystem>
+							<_hname type="a">OD_AN_PerformAnalysisPkg</_hname>
+							<_hid type="a">GUID 90c8cdee-410e-4bd6-9b2f-239c3a06fb79</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\PhysicalSystemPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg</_hsubsystem>
+							<_hname type="a">PhysicalSystemPkg</_hname>
+							<_hid type="a">GUID 38c47c08-ee87-42c9-8ec1-baa1727503c9</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\L1_PhysicalElementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg</_hsubsystem>
+							<_hname type="a">L1_PhysicalElementsPkg</_hname>
+							<_hid type="a">GUID e2f7d812-3ee3-4447-ba88-541e8894646e</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\UserTerminalPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L1_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">UserTerminalPkg</_hname>
+							<_hid type="a">GUID 7181f2e7-edc8-47cc-9532-92ac1baf58e0</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\DevicePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L1_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">DevicePkg</_hname>
+							<_hid type="a">GUID 9af845a5-e0e1-47ac-b477-dd7c4b84fa52</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\L2_PhysicalElementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg</_hsubsystem>
+							<_hname type="a">L2_PhysicalElementsPkg</_hname>
+							<_hid type="a">GUID a095b5de-bf03-414f-b944-ba6dd6e13850</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ComputerPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">ComputerPkg</_hname>
+							<_hid type="a">GUID b2c4bbbd-74ed-4049-8c31-af91c2b37674</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">UserApplicationSWPkg</_hname>
+							<_hid type="a">GUID 60099646-d1e6-42f8-9150-9bc583b8d844</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\DriverCardPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">DriverCardPkg</_hname>
+							<_hid type="a">GUID 1ecbbbde-56b3-421f-b509-7ffb5ee32a43</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\CarouselMotorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">CarouselMotorPkg</_hname>
+							<_hid type="a">GUID 0c2818eb-4a71-4feb-9371-5831cd57b98d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\PumpPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">PumpPkg</_hname>
+							<_hid type="a">GUID ddac5a45-f703-4982-8f30-29b1892b59a8</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ElevatorMotorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">ElevatorMotorPkg</_hname>
+							<_hid type="a">GUID e4a039c0-a867-458b-bcbf-9b565156043c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\CarouselPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">CarouselPkg</_hname>
+							<_hid type="a">GUID a3c54021-3b80-4deb-aa08-c43f9d9d8e65</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ElevatorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">ElevatorPkg</_hname>
+							<_hid type="a">GUID 3afaaf4f-ee87-475a-9a51-35c4b98638fc</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\TransducerCardPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">TransducerCardPkg</_hname>
+							<_hid type="a">GUID b139a825-9b74-482c-b84b-c72ca38e0562</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\TubingPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">TubingPkg</_hname>
+							<_hid type="a">GUID c065692c-0175-435e-91c2-a03e5e5a6a07</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\WastePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">WastePkg</_hname>
+							<_hid type="a">GUID 3055a0c7-9356-4ba5-ac0e-08bf2de09a29</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\BioChipPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">BioChipPkg</_hname>
+							<_hid type="a">GUID 12592cc6-317e-4c83-848b-cf93d461b428</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\FlowCellPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg</_hsubsystem>
+							<_hname type="a">FlowCellPkg</_hname>
+							<_hid type="a">GUID 2245c77a-5959-482d-83cd-ba2d8b6e286c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\L3_PhysicalElementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg</_hsubsystem>
+							<_hname type="a">L3_PhysicalElementsPkg</_hname>
+							<_hid type="a">GUID acbef9b6-929d-47f5-8a93-7601e2721df1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\BiochipDesignAnalysis.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ParametricModelPkg</_hsubsystem>
+							<_hname type="a">BiochipDesignAnalysis</_hname>
+							<_hid type="a">GUID dd295c71-f458-497c-ae97-e0edbad437c9</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\FHAModelPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::RiskManagementModelPkg::RiskAnalysisModelPkg::SafetyModelPkg</_hsubsystem>
+							<_hname type="a">FHAModelPkg</_hname>
+							<_hid type="a">GUID b5993282-140b-4cbc-87c4-7ffedfa72666</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\FTAModelPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">SystemModel::RiskManagementModelPkg::RiskAnalysisModelPkg::SafetyModelPkg</_hsubsystem>
+							<_hname type="a">FTAModelPkg</_hname>
+							<_hid type="a">GUID 1a6838db-1eee-4ca4-a60d-0bd94b180efb</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">6.2.2020::11:56:45</weakCGTime>
+			<strongCGTime type="a">5.28.2018::12:0:34</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID 21b3364e-a319-4c70-a98e-e1c30785010a</value>
+				<value>GUID 2c4da55e-d278-449c-a29f-bb19f7eabe35</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID 21b3364e-a319-4c70-a98e-e1c30785010a</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">5.10.2018::8:5:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.10.2018::8:5:59</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 2c4da55e-d278-449c-a29f-bb19f7eabe35</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">6.2.2020::11:56:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.2.2020::11:56:45</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">69 ,UserID-All Activities must be named and cannot use the default name., UserID-All Activities must have a description, UserID-All Actors must be named and cannot use the default name., UserID-All Actors must have a description, UserID-All Blocks must be named and cannot use the default name., UserID-All Constraint blocks must have a description, UserID-All Events must be named and not have a default name, UserID-All Events must have a description, UserID-All Operations must be named and cannot use the default name., UserID-All Operations must have a description, UserID-All Packages must be named and cannot use the default name., UserID-All Problem and Rationale elements shall annotate at least one model element., UserID-All States must be named and not have a default name, UserID-All States must have a description, UserID-All Use Cases must be named and cannot use the default name., UserID-All Use Cases must have a description, UserID-All Value Properties must be named and cannot use the default name., UserID-All Value properties must be typed by ValueTypes DataTypes or Dimensions, UserID-All arguments owned by Operations must be an existing type, UserID-All source content must have a file name (if of type requirement) or be a hyperlink, UserID-Blocks that type parts of the system context must have documentation, UserID-Constraint properties must be typed by constraint blocks., UserID-Empty Diagram, UserID-This operation is not used (called on an Activity or Sequence diagram) in the model, UserID-Allocation dependencies in the model are not allowed, UserID-Controlled files in the model are not allowed. Use a hyperlink instead to the authoritative source of truth, UserID-Non-Extended Requirements (requirements without a steretype) are Forbidden, UserID-Reference associations between blocks are prohibited. Why make life complicated?, UserID-All ports must be proxy ports., UserID-All proxy ports owned by blocks with the &lt;&lt;logical&gt;&gt; stereotype applied must by typed by interface blocks with the &lt;&lt;logical&gt;&gt; stereotype applied, UserID-All proxy ports owned by blocks with the &lt;&lt;physical&gt;&gt; stereotype applied must by typed by interface blocks with the &lt;&lt;physical&gt;&gt; stereotype applied., UserID-Connector ends must be ports., UserID-IBDs must be owned by a block, UserID-Interface blocks may not specialize non-interface blocks., UserID-Interface blocks must own at least one flow property or port., UserID-Proxy ports must be typed by interface blocks., UserID-Constraint blocks must have one and ONLY one constraint (use multiple constraint blocks for multiple equations), UserID-Constraint block must own one or more constraint parameters, UserID-Constraint block specification may not be empty, UserID-Only artifacts or operations/activities (with applied TestCase stereotype) may be used as the source of verify relationships., UserID-Performance Requirements must refine one or more functional requirements, UserID-Requirement must have at least one satisfy relationship, UserID-Requirement must have at least one verify relationship, UserID-Requirement name cannot be the default name, UserID-Requirement specification cannot be blank, UserID-Requirements must have at least one outgoing trace or refine relationship, UserID-All Messages on sequence diagrams must be realized by an event or an operation, UserID-All interactions realized between lifelines in an SD must also be realized by a flow, UserID-All lifelines in sequence diagrams must be typed by blocks, UserID-Sequence diagrams may not mix physical and logical lifeline types, UserID-All flow properties must be out or inout; this ensures consistent conjugation (all 1-way in flows are conjugated)., UserID-All part properties must be typed., UserID-Blocks cannot have both logical and physical stereotypes applied., UserID-Logical blocks with ATOMIC = TRUE may not own parts., UserID-Operations must be owned by activities or blocks with context logical or physical stereotypes applied., UserID-Part properties may not be typed by Interface blocks., UserID-Part properties that are owned by a block with a logical stereotype must be typed by a block with a logical stereotype., UserID-Part properties that are owned by a block with a physical stereotype must be typed by a block with a physical stereotype., UserID-Physical blocks with ATOMIC = TRUE may not own part properties., UserID-Realization relationships between logical and physical elements must have the physical element as the source and the logical element as the target., UserID-There is a part property loop associated with this block (a block in the structure owns a part property typed by a block &quot;upstream, &quot; leading to recursion in the structure tree., UserID-Actors may not be associated with other Actors...I'm mean what would be the point?!?, UserID-All Actors must be associated with at least one use case or be specialized by other actors., UserID-All use cases must have an outgoing trace extend or refine relationship or an incoming include relationship, UserID-Extend Relationships must correspond to at least one extension point in the base use case, UserID-Extension Points must correspond to at least one incoming extend relationship, UserID-Use Cases may not be associated with other Use Cases, UserID-Use Cases must be associated with at least one actor, </_checksList>
+			<_checksList_Default type="a">0</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">6.2.2020::11:56:45</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID f0e79736-716d-4c88-bae5-446b7b85c0e1</value>
+				<value>GUID c551b99e-61f5-42a6-8a88-7d219dc38be2</value>
+				<value>GUID 7a16756f-bb07-42ef-a869-9d7256122dd6</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IMHyperLink type="e">
+			<_id type="a">GUID f0e79736-716d-4c88-bae5-446b7b85c0e1</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Makefile</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">DefaultComponent.mak</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IMHyperLink type="e">
+			<_id type="a">GUID c551b99e-61f5-42a6-8a88-7d219dc38be2</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Main File</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">MainDefaultComponent</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IFolder type="e">
+			<_id type="a">GUID 7a16756f-bb07-42ef-a869-9d7256122dd6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 2245c77a-5959-482d-83cd-ba2d8b6e286c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FlowCellPkg</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">2</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">L2</_hname>
+							<_hid type="a">GUID c57820d3-5c97-4182-a95f-a0364b02e3cf</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">physical</_hname>
+							<_hid type="a">GUID 77869271-ab85-46e8-87e3-013df796d54e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:21:56</_modifiedTime>
+			<weakCGTime type="a">6.8.2020::8:3:18</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:19</strongCGTime>
+			<_defaultComposite type="s">GUID d4315cad-059a-42ba-bbb4-10ecb306309f</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">2.7.2019::7:37:11</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d4315cad-059a-42ba-bbb4-10ecb306309f</value>
+				<value>GUID 6e284613-d096-419b-b790-5704db9abd06</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID d4315cad-059a-42ba-bbb4-10ecb306309f</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:19</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:19</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:19</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 6e284613-d096-419b-b790-5704db9abd06</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FlowCell</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">3</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">L2</_hname>
+							<_hid type="a">GUID c57820d3-5c97-4182-a95f-a0364b02e3cf</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">physical</_hname>
+							<_hid type="a">GUID 77869271-ab85-46e8-87e3-013df796d54e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:27</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\PhysicalSystemPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::PhysicalSystemPkg</_hsubsystem>
+					<_hname type="a">Physical Decomposition</_hname>
+					<_hid type="a">GUID ef479a46-d2a9-47fb-b71e-746886d071aa</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">6.8.2020::8:3:27</_modifiedTime>
+			<_lastID type="a">11</_lastID>
+			<weakCGTime type="a">6.8.2020::8:3:27</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:19</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 1e1ac288-d26d-4886-8642-cf8098952ca4</value>
+				<value>GUID 22763e5d-fee7-44ed-8003-4ce2150a7242</value>
+				<value>GUID 456b224b-ed6f-4d8d-a057-0fc44d3602c7</value>
+				<value>GUID 665e8411-d691-434c-92e7-391c002ed4ba</value>
+			</AggregatesList>
+		</IClass>
+		<ISysMLPort type="e">
+			<_id type="a">GUID 1e1ac288-d26d-4886-8642-cf8098952ca4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">flowport_bc</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">flowPort</_hname>
+							<_hid type="a">GUID e38cbf02-1c06-464c-927e-6e2c6c764315</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.15.2019::8:19:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.15.2019::8:19:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+					<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+					<_hname type="a">fluidOUT</_hname>
+					<_hid type="a">GUID 12bcbd5a-6b67-4a24-aa5a-49ce173cb87d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_direction type="a">Unspecified</_direction>
+		</ISysMLPort>
+		<ISysMLPort type="e">
+			<_id type="a">GUID 22763e5d-fee7-44ed-8003-4ce2150a7242</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">flowport_tu</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">flowPort</_hname>
+							<_hid type="a">GUID e38cbf02-1c06-464c-927e-6e2c6c764315</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.15.2019::8:21:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.15.2019::8:21:58</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+					<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+					<_hname type="a">fluidIN</_hname>
+					<_hid type="a">GUID 3502742b-d914-45e3-ad80-3c749822a35b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_direction type="a">Unspecified</_direction>
+		</ISysMLPort>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 456b224b-ed6f-4d8d-a057-0fc44d3602c7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F136_LiquidFlow</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:18</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 665e8411-d691-434c-92e7-391c002ed4ba</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F139_FlowStop</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:27</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

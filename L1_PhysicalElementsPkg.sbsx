@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID e2f7d812-3ee3-4447-ba88-541e8894646e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">L1_PhysicalElementsPkg</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:9</_modifiedTime>
+			<_lastID type="a">17</_lastID>
+			<weakCGTime type="a">3.12.2019::14:51:9</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:9</strongCGTime>
+			<_defaultComposite type="s">GUID dc4a3b62-c274-44c8-89e2-6d4d13ff1194</_defaultComposite>
+			<_eventsBaseID type="a">28801</_eventsBaseID>
+			<_configurationRelatedTime type="a">2.6.2019::6:32:10</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 7181f2e7-edc8-47cc-9532-92ac1baf58e0</value>
+				<value>GUID 9af845a5-e0e1-47ac-b477-dd7c4b84fa52</value>
+				<value>GUID dc4a3b62-c274-44c8-89e2-6d4d13ff1194</value>
+				<value>GUID 999f94a0-7592-43c4-a639-8240dbaf5c18</value>
+				<value>GUID 4fde65ee-ffde-40b9-85ca-fff5aa27cabf</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">UserTerminalPkg</fileName>
+			<_id type="a">GUID 7181f2e7-edc8-47cc-9532-92ac1baf58e0</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">DevicePkg</fileName>
+			<_id type="a">GUID 9af845a5-e0e1-47ac-b477-dd7c4b84fa52</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID dc4a3b62-c274-44c8-89e2-6d4d13ff1194</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:9</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:9</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:9</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IEvent type="e">
+			<_id type="a">GUID 999f94a0-7592-43c4-a639-8240dbaf5c18</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqStartFlow</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:9</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 4fde65ee-ffde-40b9-85ca-fff5aa27cabf</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqStopFlow</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:9</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

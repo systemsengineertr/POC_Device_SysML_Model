@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID a095b5de-bf03-414f-b944-ba6dd6e13850</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">L2_PhysicalElementsPkg</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:19</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:19</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:19</strongCGTime>
+			<_defaultComposite type="s">GUID a1d2d2d9-842b-409d-a990-148cc775cbf2</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">2.7.2019::11:21:44</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID b2c4bbbd-74ed-4049-8c31-af91c2b37674</value>
+				<value>GUID 60099646-d1e6-42f8-9150-9bc583b8d844</value>
+				<value>GUID 1ecbbbde-56b3-421f-b509-7ffb5ee32a43</value>
+				<value>GUID 0c2818eb-4a71-4feb-9371-5831cd57b98d</value>
+				<value>GUID ddac5a45-f703-4982-8f30-29b1892b59a8</value>
+				<value>GUID e4a039c0-a867-458b-bcbf-9b565156043c</value>
+				<value>GUID a3c54021-3b80-4deb-aa08-c43f9d9d8e65</value>
+				<value>GUID 3afaaf4f-ee87-475a-9a51-35c4b98638fc</value>
+				<value>GUID b139a825-9b74-482c-b84b-c72ca38e0562</value>
+				<value>GUID c065692c-0175-435e-91c2-a03e5e5a6a07</value>
+				<value>GUID 3055a0c7-9356-4ba5-ac0e-08bf2de09a29</value>
+				<value>GUID 12592cc6-317e-4c83-848b-cf93d461b428</value>
+				<value>GUID 2245c77a-5959-482d-83cd-ba2d8b6e286c</value>
+				<value>GUID a1d2d2d9-842b-409d-a990-148cc775cbf2</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ComputerPkg</fileName>
+			<_id type="a">GUID b2c4bbbd-74ed-4049-8c31-af91c2b37674</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">UserApplicationSWPkg</fileName>
+			<_id type="a">GUID 60099646-d1e6-42f8-9150-9bc583b8d844</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">DriverCardPkg</fileName>
+			<_id type="a">GUID 1ecbbbde-56b3-421f-b509-7ffb5ee32a43</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">CarouselMotorPkg</fileName>
+			<_id type="a">GUID 0c2818eb-4a71-4feb-9371-5831cd57b98d</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">PumpPkg</fileName>
+			<_id type="a">GUID ddac5a45-f703-4982-8f30-29b1892b59a8</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ElevatorMotorPkg</fileName>
+			<_id type="a">GUID e4a039c0-a867-458b-bcbf-9b565156043c</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">CarouselPkg</fileName>
+			<_id type="a">GUID a3c54021-3b80-4deb-aa08-c43f9d9d8e65</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ElevatorPkg</fileName>
+			<_id type="a">GUID 3afaaf4f-ee87-475a-9a51-35c4b98638fc</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">TransducerCardPkg</fileName>
+			<_id type="a">GUID b139a825-9b74-482c-b84b-c72ca38e0562</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">TubingPkg</fileName>
+			<_id type="a">GUID c065692c-0175-435e-91c2-a03e5e5a6a07</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">WastePkg</fileName>
+			<_id type="a">GUID 3055a0c7-9356-4ba5-ac0e-08bf2de09a29</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">BioChipPkg</fileName>
+			<_id type="a">GUID 12592cc6-317e-4c83-848b-cf93d461b428</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">FlowCellPkg</fileName>
+			<_id type="a">GUID 2245c77a-5959-482d-83cd-ba2d8b6e286c</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID a1d2d2d9-842b-409d-a990-148cc775cbf2</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:19</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:19</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:19</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

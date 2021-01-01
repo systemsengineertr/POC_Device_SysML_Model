@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 48b9b82f-4f93-46ed-bfa3-53098ed51823</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">OD_OperatorControllerPkg</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:12</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">3.12.2019::14:51:12</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:12</strongCGTime>
+			<_defaultComposite type="s">GUID 51f6aac0-5fb9-4873-a8e5-f6fcc1d6c5b8</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID e7a33656-fa6c-4238-a656-4bafdb79be1a</value>
+				<value>GUID e07cdc4a-d57f-4ed4-b871-04ee0e9f3f16</value>
+				<value>GUID 51f6aac0-5fb9-4873-a8e5-f6fcc1d6c5b8</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">OD_OC_RunAssayProtocolPkg</fileName>
+			<_id type="a">GUID e7a33656-fa6c-4238-a656-4bafdb79be1a</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">OD_OC_DisplayBioChipSignalPkg</fileName>
+			<_id type="a">GUID e07cdc4a-d57f-4ed4-b871-04ee0e9f3f16</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 51f6aac0-5fb9-4873-a8e5-f6fcc1d6c5b8</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:12</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:12</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:12</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

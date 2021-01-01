@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6246e4d9-84e3-4686-9fcf-9518568d2148</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">OperationDesignsPkg</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:11</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">3.12.2019::14:51:11</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:11</strongCGTime>
+			<_defaultComposite type="s">GUID be42e107-e65f-48a3-b1ec-a4ab061fd374</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">3.6.2019::20:9:53</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 5300472a-e61f-4e8d-8cab-409751c56672</value>
+				<value>GUID be42e107-e65f-48a3-b1ec-a4ab061fd374</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">OD_LogicalElementsPkg</fileName>
+			<_id type="a">GUID 5300472a-e61f-4e8d-8cab-409751c56672</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID be42e107-e65f-48a3-b1ec-a4ab061fd374</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:11</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:11</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:11</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

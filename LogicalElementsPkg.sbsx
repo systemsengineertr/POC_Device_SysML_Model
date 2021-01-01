@@ -1,0 +1,2709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 8b108aa4-62b3-44b3-a329-5b1f14c439c8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">LogicalElementsPkg</_name>
+			<_modifiedTimeWeak type="a">12.17.2020::6:18:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2020::9:39:54</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<weakCGTime type="a">12.17.2020::6:18:24</weakCGTime>
+			<strongCGTime type="a">1.29.2019::11:24:17</strongCGTime>
+			<_defaultComposite type="s">GUID 14cd35c6-7302-495b-8557-1a3fd645217a</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">2.5.2019::5:50:38</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 14cd35c6-7302-495b-8557-1a3fd645217a</value>
+				<value>GUID 22bb00aa-cc92-492a-905f-27d0a5b69b63</value>
+				<value>GUID 052e39ad-e792-4daa-b8e5-e2d23ef3efad</value>
+				<value>GUID 6b88ffaf-3cab-4cb5-a9dd-83a3818be3b3</value>
+				<value>GUID 2ed15a13-fcad-430f-9832-f0b6fb377029</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 14cd35c6-7302-495b-8557-1a3fd645217a</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">2.15.2019::13:31:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.15.2019::13:31:51</_modifiedTime>
+			<weakCGTime type="a">2.15.2019::13:31:51</weakCGTime>
+			<strongCGTime type="a">1.29.2019::11:24:17</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 22bb00aa-cc92-492a-905f-27d0a5b69b63</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">OperatorController</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">3</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">L1</_hname>
+							<_hid type="a">GUID caad428f-23c9-4678-979f-b9513432e2d1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">logical</_hname>
+							<_hid type="a">GUID 1988bc52-c479-42fd-b97c-1e7ad129b2ef</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">11.22.2020::9:0:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.22.2020::9:0:36</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<weakCGTime type="a">11.22.2020::9:0:36</weakCGTime>
+			<strongCGTime type="a">2.5.2019::5:22:57</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 9ed41be1-6022-4239-9673-98e265c091cb</value>
+				<value>GUID abd4ea7f-8004-442f-a521-d775d90e54a0</value>
+				<value>GUID 9cf79b14-2b2e-42fd-9db6-f01a8070ecda</value>
+				<value>GUID 9af0dff7-b931-45d1-a8a6-78c711aec7de</value>
+				<value>GUID 9ab79382-b6ab-4414-8e16-ff7b4d4809a3</value>
+				<value>GUID f04ec637-403b-4f19-acd2-62edfbb6b0cb</value>
+				<value>GUID aa9f8970-1e53-4533-9135-578687c10e0f</value>
+				<value>GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</value>
+				<value>GUID 9d2813d5-9e67-4cb6-9422-22ae5b090a74</value>
+				<value>GUID bba71953-f735-4c2b-ad9f-273693770da0</value>
+				<value>GUID 7f569f83-d6f7-4f74-b4b8-e8f423d4f33e</value>
+				<value>GUID 0dffd43f-1e1a-4f53-a05c-7dce0a274c94</value>
+				<value>GUID 0e89a5ac-ccff-4d60-b296-2237fce335c5</value>
+				<value>GUID ad265eee-d76f-421f-9b30-b5d1477325bd</value>
+				<value>GUID 05ee2f5f-4372-4af1-904d-f23f6a235596</value>
+			</AggregatesList>
+		</IClass>
+		<IDependency type="e">
+			<_id type="a">GUID 9ed41be1-6022-4239-9673-98e265c091cb</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">OD_OC_RunAssayProtocolPkg</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">analysed by</_hname>
+							<_hid type="a">GUID 76933acd-eb36-442a-9bd9-da8637a24287</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.7.2019::9:47:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.7.2019::9:47:23</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\OD_OC_RunAssayProtocolPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_OperatorControllerPkg</_hsubsystem>
+					<_hname type="a">OD_OC_RunAssayProtocolPkg</_hname>
+					<_hid type="a">GUID e7a33656-fa6c-4238-a656-4bafdb79be1a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 22bb00aa-cc92-492a-905f-27d0a5b69b63</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID abd4ea7f-8004-442f-a521-d775d90e54a0</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">OD_OC_DisplayBioChipSignalPkg</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">analysed by</_hname>
+							<_hid type="a">GUID 76933acd-eb36-442a-9bd9-da8637a24287</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.7.2019::10:53:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.7.2019::10:53:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\OD_OC_DisplayBioChipSignalPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_OperatorControllerPkg</_hsubsystem>
+					<_hname type="a">OD_OC_DisplayBioChipSignalPkg</_hname>
+					<_hid type="a">GUID e07cdc4a-d57f-4ed4-b871-04ee0e9f3f16</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 22bb00aa-cc92-492a-905f-27d0a5b69b63</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPort type="e">
+			<_id type="a">GUID 9cf79b14-2b2e-42fd-9db6-f01a8070ecda</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">port</_name>
+			<_modifiedTimeWeak type="a">2.15.2019::11:27:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.15.2019::11:27:19</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 4363af64-9739-477a-97ae-d796e9f411c0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID 4363af64-9739-477a-97ae-d796e9f411c0</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">port_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">2.15.2019::11:27:19</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.15.2019::11:27:19</_modifiedTime>
+				<weakCGTime type="a">2.15.2019::11:27:19</weakCGTime>
+				<strongCGTime type="a">2.15.2019::11:27:19</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPort type="e">
+			<_id type="a">GUID 9af0dff7-b931-45d1-a8a6-78c711aec7de</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">UI</_name>
+			<_modifiedTimeWeak type="a">1.21.2019::13:10:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.21.2019::13:10:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 12e6c49b-16b9-43b3-aac2-077f5190b358</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID 12e6c49b-16b9-43b3-aac2-077f5190b358</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">UI_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">1.21.2019::13:10:4</_modifiedTimeWeak>
+				<_modifiedTime type="a">1.21.2019::13:10:4</_modifiedTime>
+				<weakCGTime type="a">1.21.2019::13:10:4</weakCGTime>
+				<strongCGTime type="a">1.21.2019::13:10:4</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 9ab79382-b6ab-4414-8e16-ff7b4d4809a3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F110_RunDesorbProtocol</_name>
+			<_modifiedTimeWeak type="a">7.13.2020::7:39:3</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">DesorbProtocol function is run. Microfluidics system is cleaned using two cleaning reagents (SDS and glycine) and de-ionised water.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.13.2020::7:39:3</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 7b113962-3c0a-4a3c-b688-4683b7aeecd3</value>
+				<value>GUID 49ea5d7f-d860-4b0d-970d-981070c46a87</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID 7b113962-3c0a-4a3c-b688-4683b7aeecd3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F120_SelectChemical</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:52</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 9ab79382-b6ab-4414-8e16-ff7b4d4809a3</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 49ea5d7f-d860-4b0d-970d-981070c46a87</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F130_InjectChemicalToBioDetector</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:59</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 9ab79382-b6ab-4414-8e16-ff7b4d4809a3</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID f04ec637-403b-4f19-acd2-62edfbb6b0cb</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F210_RunPrimeProtocol</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:15:46</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">PrimeProtocol function is run.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:15:46</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID d910fb50-cbde-460b-97f3-3f72e06a1d6c</value>
+				<value>GUID ca5a4d55-fe61-4560-a41c-5c71319cc07a</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID d910fb50-cbde-460b-97f3-3f72e06a1d6c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F120_SelectChemical</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:52</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID f04ec637-403b-4f19-acd2-62edfbb6b0cb</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID ca5a4d55-fe61-4560-a41c-5c71319cc07a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F130_InjectChemicalToBioDetector</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:59</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID f04ec637-403b-4f19-acd2-62edfbb6b0cb</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID aa9f8970-1e53-4533-9135-578687c10e0f</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F310_RunBiochipQCProtocol</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:16:1</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Biochip QC Protocol function is run.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:16:1</_modifiedTime>
+			<_lastID type="a">8</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 2deb6676-28f8-49ac-987d-39dc81bdaccd</value>
+				<value>GUID 1bb32f6b-808f-4b29-9934-9e553c91a1f4</value>
+				<value>GUID 0f660532-180e-45e7-a82a-6a5714dde7f3</value>
+				<value>GUID d8d70786-cd12-4956-8410-ca89f53e989a</value>
+				<value>GUID 3c0cd929-e315-4efb-8355-8ca3fbf8e8aa</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID 2deb6676-28f8-49ac-987d-39dc81bdaccd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F120_SelectChemical</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:52</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID aa9f8970-1e53-4533-9135-578687c10e0f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 1bb32f6b-808f-4b29-9934-9e553c91a1f4</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F130_InjectChemicalToBioDetector</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:59</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID aa9f8970-1e53-4533-9135-578687c10e0f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 0f660532-180e-45e7-a82a-6a5714dde7f3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F320_PerformAnalysis</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:29</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID aa9f8970-1e53-4533-9135-578687c10e0f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID d8d70786-cd12-4956-8410-ca89f53e989a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F330_DisplaySignal</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID aa9f8970-1e53-4533-9135-578687c10e0f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 3c0cd929-e315-4efb-8355-8ca3fbf8e8aa</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F340_QCStatus</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:44</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\ActorsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::ActorsPkg</_hsubsystem>
+					<_hclass type="a">DeviceOperator</_hclass>
+					<_hname type="a">F340_QCStatus()</_hname>
+					<_hid type="a">GUID 61e704a6-89df-4981-8b41-ecc2362f0861</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID aa9f8970-1e53-4533-9135-578687c10e0f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F330_DisplaySignal</_name>
+			<_modifiedTimeWeak type="a">8.7.2020::11:22:54</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil\fcharset162{\*\fname Arial;}Arial TUR;}}%0D
+{\colortbl ;\red0\green0\blue255;}%0D
+\viewkind4\uc1\pard\cf1\ul\protect\f0\fs20 Assay signal is displayed.\cf0\ulnone\protect0\par%0D
+}%0D
+</_textRTF>
+				<Hyperlinks type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IInternalHyperlink type="e">
+							<_name type="a">Assay signal is displayed.</_name>
+							<_textType type="a">FREE</_textType>
+							<_target type="r">
+								<IHandle type="e">
+									<_hm2Class type="a">IDiagram</_hm2Class>
+									<_hsubsystem type="a">SystemModel::FunctionalModelPkg</_hsubsystem>
+									<_hname type="a">Func_Display_Signal</_hname>
+									<_hid type="a">GUID e6b6ffa0-12f0-41c6-ac6b-d38c8bcb3a32</_hid>
+								</IHandle>
+							</_target>
+						</IInternalHyperlink>
+						
+					</IRPYRawContainer>
+				</Hyperlinks>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">8.7.2020::11:22:54</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 6c21af08-995a-4e86-b167-210ddb4a9790</value>
+				<value>GUID 1bdb6263-452e-4401-b370-19265d66c95f</value>
+				<value>GUID 158f6811-a849-4cf0-9eff-1e3700d49221</value>
+				<value>GUID 0d67acba-30a7-4107-83af-f3af0cf21757</value>
+				<value>GUID 91a719cd-1caa-4b86-9819-391e2fef4184</value>
+				<value>GUID ac0ee890-2f8a-4de6-9fc0-21c662eb6fb5</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID 6c21af08-995a-4e86-b167-210ddb4a9790</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F331_DisplayBiochipAssay</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:8:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:8:26</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\TransducerCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::TransducerCardPkg</_hsubsystem>
+					<_hclass type="a">TransducerCard</_hclass>
+					<_hname type="a">F331_DisplayBiochipAssay()</_hname>
+					<_hid type="a">GUID 8abad974-dc24-4ef7-b9ca-325f3971b7fc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 1bdb6263-452e-4401-b370-19265d66c95f</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F332_ReadSignal</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:8:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:8:33</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\TransducerCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::TransducerCardPkg</_hsubsystem>
+					<_hclass type="a">TransducerCard</_hclass>
+					<_hname type="a">F332_ReadSignal()</_hname>
+					<_hid type="a">GUID 50ca523c-64ec-4d02-8bf5-3ff4d515ba39</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 158f6811-a849-4cf0-9eff-1e3700d49221</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F333_SetTimer</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:8:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:8:48</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\DriverCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::DriverCardPkg</_hsubsystem>
+					<_hclass type="a">DriverCard</_hclass>
+					<_hname type="a">F333_SetTimer()</_hname>
+					<_hid type="a">GUID 8f1d894c-802a-45a6-bcad-a609634eccd3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 0d67acba-30a7-4107-83af-f3af0cf21757</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F323_GetSignal</_name>
+			<_modifiedTimeWeak type="a">8.7.2020::11:22:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.7.2020::11:22:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F323_GetSignal()</_hname>
+					<_hid type="a">GUID 070850ca-d38b-4635-b11c-914c6aaaa751</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 91a719cd-1caa-4b86-9819-391e2fef4184</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F326_ConvertSignaltoResult</_name>
+			<_modifiedTimeWeak type="a">8.7.2020::11:22:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.7.2020::11:22:51</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F326_ConvertSignaltoResult()</_hname>
+					<_hid type="a">GUID 04677ef7-198c-4b6d-af07-356ce38d765e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID ac0ee890-2f8a-4de6-9fc0-21c662eb6fb5</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F325_DisplayResult</_name>
+			<_modifiedTimeWeak type="a">8.7.2020::11:22:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.7.2020::11:22:54</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F325_DisplayResult()</_hname>
+					<_hid type="a">GUID a838f6ff-406b-4a15-abff-8db1a83b54b2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 9d2813d5-9e67-4cb6-9422-22ae5b090a74</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F410_RunSetAssayProtocol</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:16:16</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">SetAssayProtocol function is run.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:16:16</_modifiedTime>
+			<_lastID type="a">14</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID c35a8121-8ce4-49cc-b4ba-22f125866368</value>
+				<value>GUID 86cd6c34-0675-446d-bae0-d688929d5991</value>
+				<value>GUID 7c858219-e835-4277-a57b-8113a9c53c39</value>
+				<value>GUID 2756ca49-ae1c-410a-8f43-207a85507592</value>
+				<value>GUID 2a132738-eefa-4f93-8c6f-fa169231520e</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID c35a8121-8ce4-49cc-b4ba-22f125866368</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F430_EnterFlowRate</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:9:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:9:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 0e89a5ac-ccff-4d60-b296-2237fce335c5</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 9d2813d5-9e67-4cb6-9422-22ae5b090a74</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 86cd6c34-0675-446d-bae0-d688929d5991</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F440__EnterDuration</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:9:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:9:46</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 0dffd43f-1e1a-4f53-a05c-7dce0a274c94</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 9d2813d5-9e67-4cb6-9422-22ae5b090a74</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 7c858219-e835-4277-a57b-8113a9c53c39</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F450_EnterAnalysisTypeandCondition</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:9:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:9:55</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f569f83-d6f7-4f74-b4b8-e8f423d4f33e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 9d2813d5-9e67-4cb6-9422-22ae5b090a74</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 2756ca49-ae1c-410a-8f43-207a85507592</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F460_SaveAssayProtocol</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:10:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:10:7</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID bba71953-f735-4c2b-ad9f-273693770da0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 9d2813d5-9e67-4cb6-9422-22ae5b090a74</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 2a132738-eefa-4f93-8c6f-fa169231520e</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F420_EnterTubeNo</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:54:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:54:23</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID ad265eee-d76f-421f-9b30-b5d1477325bd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 9d2813d5-9e67-4cb6-9422-22ae5b090a74</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID bba71953-f735-4c2b-ad9f-273693770da0</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F460_SaveAssayProtocol</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:32:26</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Assay protocol is saved by the operator.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:32:26</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 7f569f83-d6f7-4f74-b4b8-e8f423d4f33e</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F450_EnterAnalysisTypeandCondition</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:29:45</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Analysis type and condition is set by the operator.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:29:45</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 0dffd43f-1e1a-4f53-a05c-7dce0a274c94</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F440__EnterDuration</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:32:2</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Chemical injection durations are entered by the operator.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:32:2</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 0e89a5ac-ccff-4d60-b296-2237fce335c5</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F430_EnterFlowRate</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:29:28</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Injection flow rate is set by the operator.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:29:28</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID ad265eee-d76f-421f-9b30-b5d1477325bd</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F420_EnterTubeNo</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:31:40</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Chemical tube numbers are entered by the operator.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:31:40</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 05ee2f5f-4372-4af1-904d-f23f6a235596</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">common</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">F510_RunAssayProtocol</_name>
+			<_modifiedTimeWeak type="a">11.22.2020::9:0:36</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil\fcharset162{\*\fname Arial;}Arial TUR;}}%0D
+{\colortbl ;\red0\green0\blue255;}%0D
+\viewkind4\uc1\pard\cf1\ul\protect\f0\fs20 RunAssayProtocol function is run.\cf0\ulnone\protect0  Assay is run to identify the \ulwave existance\ulnone  and the amount of toxins within the sample.\par%0D
+}%0D
+</_textRTF>
+				<Hyperlinks type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IInternalHyperlink type="e">
+							<_name type="a">RunAssayProtocol function is run.</_name>
+							<_textType type="a">FREE</_textType>
+							<_target type="r">
+								<IHandle type="e">
+									<_hm2Class type="a">IDiagram</_hm2Class>
+									<_hsubsystem type="a">SystemModel::FunctionalModelPkg</_hsubsystem>
+									<_hname type="a">Func_RunAssayProtocol</_hname>
+									<_hid type="a">GUID d2dbf066-aeaa-4158-937c-0dfb76c8bffe</_hid>
+								</IHandle>
+							</_target>
+						</IInternalHyperlink>
+						
+					</IRPYRawContainer>
+				</Hyperlinks>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">11.22.2020::9:0:36</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 1b128b42-bd70-40c2-be30-fd71727e705a</value>
+				<value>GUID 2b233eb2-8930-4009-8587-8b078e316dac</value>
+				<value>GUID 9cd3f586-cc44-4ebd-9604-85eb028e8eda</value>
+				<value>GUID b33a452e-818c-4cc3-bd6c-f60683a934d3</value>
+				<value>GUID 78c8ac97-ca8a-42b0-88c4-53c74ae446e9</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID 1b128b42-bd70-40c2-be30-fd71727e705a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F120_SelectChemical</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:52</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 05ee2f5f-4372-4af1-904d-f23f6a235596</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 2b233eb2-8930-4009-8587-8b078e316dac</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F130_InjectChemicalToBioDetector</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:59</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 05ee2f5f-4372-4af1-904d-f23f6a235596</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 9cd3f586-cc44-4ebd-9604-85eb028e8eda</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F320_PerformAnalysis</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:29</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 05ee2f5f-4372-4af1-904d-f23f6a235596</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID b33a452e-818c-4cc3-bd6c-f60683a934d3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F330_DisplaySignal</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:7:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:7:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 369d5abb-3ed0-4b18-b09c-8a6119f40d7d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 05ee2f5f-4372-4af1-904d-f23f6a235596</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 78c8ac97-ca8a-42b0-88c4-53c74ae446e9</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">MoleculeStatus</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::10:48:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::10:48:41</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\ActorsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::ActorsPkg</_hsubsystem>
+					<_hname type="a">MoleculeStatus()</_hname>
+					<_hid type="a">GUID e76f0d1a-3527-418a-92f4-babb019b2e87</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 05ee2f5f-4372-4af1-904d-f23f6a235596</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 052e39ad-e792-4daa-b8e5-e2d23ef3efad</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ChemicalSelector</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">3</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">L1</_hname>
+							<_hid type="a">GUID caad428f-23c9-4678-979f-b9513432e2d1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">logical</_hname>
+							<_hid type="a">GUID 1988bc52-c479-42fd-b97c-1e7ad129b2ef</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.9.2020::11:33:12</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\SystemPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::SystemPkg</_hsubsystem>
+					<_hname type="a">Logical Decomposition</_hname>
+					<_hid type="a">GUID d4e765b6-d739-42d0-86ed-d48eccf3fdd4</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.9.2020::11:33:12</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.9.2020::11:33:12</weakCGTime>
+			<strongCGTime type="a">2.5.2019::5:22:57</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 6eea0868-406a-4b99-8eb6-8b2ca6ef1fbe</value>
+				<value>GUID 00db7e53-3112-44ca-bc9a-bb2cf5c0a30a</value>
+				<value>GUID 24382188-b35f-4ec9-909d-629be8df94fd</value>
+			</AggregatesList>
+		</IClass>
+		<IDependency type="e">
+			<_id type="a">GUID 6eea0868-406a-4b99-8eb6-8b2ca6ef1fbe</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">OD_CS_SelectChemicalPkg</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">analysed by</_hname>
+							<_hid type="a">GUID 76933acd-eb36-442a-9bd9-da8637a24287</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.7.2019::9:48:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.7.2019::9:48:38</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\OD_CS_SelectChemicalPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_ChemicalSelectorPkg</_hsubsystem>
+					<_hname type="a">OD_CS_SelectChemicalPkg</_hname>
+					<_hid type="a">GUID 0905c043-9750-4935-8401-1db2dcce81c8</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 052e39ad-e792-4daa-b8e5-e2d23ef3efad</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPort type="e">
+			<_id type="a">GUID 00db7e53-3112-44ca-bc9a-bb2cf5c0a30a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">port_oc</_name>
+			<_modifiedTimeWeak type="a">2.15.2019::11:26:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.15.2019::11:26:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID ae5b42bf-f1a6-4fbc-8728-06b29ddd85f0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID ae5b42bf-f1a6-4fbc-8728-06b29ddd85f0</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">port_oc_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">2.15.2019::11:26:52</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.15.2019::11:26:52</_modifiedTime>
+				<weakCGTime type="a">2.15.2019::11:26:52</weakCGTime>
+				<strongCGTime type="a">2.15.2019::11:26:52</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F120_SelectChemical</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::11:33:12</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset162{\*\fname Arial;}Arial TUR;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue255;}%0D
+\viewkind4\uc1\pard\cf1\lang1055\ul\protect\f0\fs20 Reagents/chemicals needed for the assay are selected.\cf0\lang2057\ulnone\protect0\f1\par%0D
+}%0D
+</_textRTF>
+				<Hyperlinks type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IInternalHyperlink type="e">
+							<_name type="a">Reagents/chemicals needed for the assay are selected.</_name>
+							<_textType type="a">FREE</_textType>
+							<_target type="r">
+								<IHandle type="e">
+									<_hm2Class type="a">IDiagram</_hm2Class>
+									<_hsubsystem type="a">SystemModel::FunctionalModelPkg</_hsubsystem>
+									<_hname type="a">Func_Select_Chemical</_hname>
+									<_hid type="a">GUID 42f04781-0bbc-472c-8876-cfbe1830087f</_hid>
+								</IHandle>
+							</_target>
+						</IInternalHyperlink>
+						
+					</IRPYRawContainer>
+				</Hyperlinks>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::11:33:12</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 0ee8d9fe-6dce-47be-8c03-4cde47cae989</value>
+				<value>GUID 5f228a5c-8af1-4e2d-ad4e-1c627b8f4758</value>
+				<value>GUID 6b73544d-d753-4fcc-8026-8aaf5c808d55</value>
+				<value>GUID cc879863-ffb2-4c41-9c83-88abf93775f4</value>
+				<value>GUID ff65a1de-1799-4d79-afbf-5f1ddbdc7079</value>
+				<value>GUID ba2ce91a-c3ff-4066-89a2-af411e5a429d</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID 0ee8d9fe-6dce-47be-8c03-4cde47cae989</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F121_SelectChemical</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:11:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:11:57</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\DriverCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::DriverCardPkg</_hsubsystem>
+					<_hclass type="a">DriverCard</_hclass>
+					<_hname type="a">F121_SelectChemical()</_hname>
+					<_hid type="a">GUID 80c436b1-b41a-4a50-b8a0-28e5d75412a0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 5f228a5c-8af1-4e2d-ad4e-1c627b8f4758</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F122_CMGoToPosition</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:12:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:12:3</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\DriverCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::DriverCardPkg</_hsubsystem>
+					<_hclass type="a">DriverCard</_hclass>
+					<_hname type="a">F122_CMGoToPosition()</_hname>
+					<_hid type="a">GUID 640e75b9-909e-437a-a356-ceaadc98ab87</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 6b73544d-d753-4fcc-8026-8aaf5c808d55</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F123_CMGotoInitialPosition</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:12:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:12:11</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\CarouselMotorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::CarouselMotorPkg</_hsubsystem>
+					<_hclass type="a">CarouselMotor</_hclass>
+					<_hname type="a">F123_CMGotoInitialPosition()</_hname>
+					<_hid type="a">GUID d9f0bc3d-7d79-4ebe-a16f-aba080024d82</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID cc879863-ffb2-4c41-9c83-88abf93775f4</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F124_TurnCarouselToPosition</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:12:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:12:18</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\CarouselPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::CarouselPkg</_hsubsystem>
+					<_hclass type="a">Carousel</_hclass>
+					<_hname type="a">F124_TurnCarouselToPosition()</_hname>
+					<_hid type="a">GUID a94eab88-ea3b-4b6b-aaea-487172c88c04</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID ff65a1de-1799-4d79-afbf-5f1ddbdc7079</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F125_CMGotoPickupPosition</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:12:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:12:32</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\CarouselMotorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::CarouselMotorPkg</_hsubsystem>
+					<_hclass type="a">CarouselMotor</_hclass>
+					<_hname type="a">F125_CMGotoPickupPosition()</_hname>
+					<_hid type="a">GUID e5f20629-7536-4e4f-bb3b-b7d89055815c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID ba2ce91a-c3ff-4066-89a2-af411e5a429d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F126_TurnToPosition</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:12:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:12:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\CarouselPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::CarouselPkg</_hsubsystem>
+					<_hclass type="a">Carousel</_hclass>
+					<_hname type="a">F126_TurnToPosition()</_hname>
+					<_hid type="a">GUID fd5e40e3-2cf2-4424-bfd8-196f44f8dc1e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 24382188-b35f-4ec9-909d-629be8df94fd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 6b88ffaf-3cab-4cb5-a9dd-83a3818be3b3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Injector</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">3</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">L1</_hname>
+							<_hid type="a">GUID caad428f-23c9-4678-979f-b9513432e2d1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">logical</_hname>
+							<_hid type="a">GUID 1988bc52-c479-42fd-b97c-1e7ad129b2ef</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.17.2020::6:18:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\SystemPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::SystemPkg</_hsubsystem>
+					<_hname type="a">Logical Decomposition</_hname>
+					<_hid type="a">GUID d4e765b6-d739-42d0-86ed-d48eccf3fdd4</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.17.2020::6:18:24</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">12.17.2020::6:18:24</weakCGTime>
+			<strongCGTime type="a">2.5.2019::5:22:57</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 34299bbd-400f-4ed6-9217-3d497f74f142</value>
+				<value>GUID 7f98eb07-afa1-48f6-b5b4-8eaed683a7f4</value>
+				<value>GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</value>
+			</AggregatesList>
+		</IClass>
+		<IDependency type="e">
+			<_id type="a">GUID 34299bbd-400f-4ed6-9217-3d497f74f142</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">OD_INJ_InjectChemicalToBioDetectorPkg</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">analysed by</_hname>
+							<_hid type="a">GUID 76933acd-eb36-442a-9bd9-da8637a24287</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.7.2019::9:48:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.7.2019::9:48:18</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\OD_INJ_InjectChemicalToBioDetectorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_InjectorDesignPkg</_hsubsystem>
+					<_hname type="a">OD_INJ_InjectChemicalToBioDetectorPkg</_hname>
+					<_hid type="a">GUID 63d8f6be-87ba-47a6-8391-b0cd5e652258</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 6b88ffaf-3cab-4cb5-a9dd-83a3818be3b3</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPort type="e">
+			<_id type="a">GUID 7f98eb07-afa1-48f6-b5b4-8eaed683a7f4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">port_oc</_name>
+			<_modifiedTimeWeak type="a">2.15.2019::11:27:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.15.2019::11:27:2</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID a9d9bb50-7093-41a8-ab92-da0a55c0e7e0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID a9d9bb50-7093-41a8-ab92-da0a55c0e7e0</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">port_oc_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">2.15.2019::11:27:2</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.15.2019::11:27:2</_modifiedTime>
+				<weakCGTime type="a">2.15.2019::11:27:2</weakCGTime>
+				<strongCGTime type="a">2.15.2019::11:27:2</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F130_InjectChemicalToBioDetector</_name>
+			<_modifiedTimeWeak type="a">12.17.2020::6:18:24</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset162{\*\fname Arial;}Arial TUR;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue255;}%0D
+\viewkind4\uc1\pard\cf1\lang1055\ul\protect\f0\fs20  Chemicals are injected to \uld microfluidics\ul  at a certain flow rate and duration set by the operator.\cf0\lang2057\ulnone\protect0\f1\par%0D
+}%0D
+</_textRTF>
+				<Hyperlinks type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IInternalHyperlink type="e">
+							<_name type="a"> Chemicals are injected to microfluidics at a certain flow rate and duration set by the operator.</_name>
+							<_textType type="a">FREE</_textType>
+							<_target type="r">
+								<IHandle type="e">
+									<_hm2Class type="a">IDiagram</_hm2Class>
+									<_hsubsystem type="a">SystemModel::FunctionalModelPkg</_hsubsystem>
+									<_hname type="a">Func_Inject_Chemical</_hname>
+									<_hid type="a">GUID 53b2e88a-1bb3-4451-b28c-b9d9e01ac2d3</_hid>
+								</IHandle>
+							</_target>
+						</IInternalHyperlink>
+						
+					</IRPYRawContainer>
+				</Hyperlinks>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.17.2020::6:18:24</_modifiedTime>
+			<_lastID type="a">16</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 3af89e18-dec4-4c04-a1b6-88e64a34e493</value>
+				<value>GUID 3f24e18b-de4f-4842-a0fb-89f70f5df244</value>
+				<value>GUID d9f63a1b-41a7-433a-b1fd-46751dea39b0</value>
+				<value>GUID ce5c5382-0ab6-4020-bd05-86b2fa79f770</value>
+				<value>GUID 239b5539-83ec-452c-ae62-fe8baa7b789c</value>
+				<value>GUID 7930bbf6-8aed-485e-9ba8-267bfab36a2b</value>
+				<value>GUID 5767814e-2637-41fb-be2c-c056184682f5</value>
+				<value>GUID 5ff307e4-261a-4f30-9e92-ce61f8e8960e</value>
+				<value>GUID 2cca3131-c129-48fa-8a16-77fd03bf81d3</value>
+				<value>GUID 19e00c56-448d-451a-b65e-3cf4ed7c756a</value>
+				<value>GUID 49d1a320-e852-4824-8671-8ad46a42ddc2</value>
+				<value>GUID a8894be5-c534-4477-95dd-5083185c8db9</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID 3af89e18-dec4-4c04-a1b6-88e64a34e493</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F131_InjectChemicalToBiodetector</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:26:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:26:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\DriverCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::DriverCardPkg</_hsubsystem>
+					<_hclass type="a">DriverCard</_hclass>
+					<_hname type="a">F131_InjectChemicalToBiodetector()</_hname>
+					<_hid type="a">GUID 98b2e819-2dee-46bb-9e92-bab04069e471</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 3f24e18b-de4f-4842-a0fb-89f70f5df244</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F134_MoveVertical</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:2:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:2:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\ElevatorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::ElevatorPkg</_hsubsystem>
+					<_hclass type="a">Elevator</_hclass>
+					<_hname type="a">F134_MoveVertical()</_hname>
+					<_hid type="a">GUID 965d4fe2-d9eb-4a06-9289-9bc9f68e2502</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID d9f63a1b-41a7-433a-b1fd-46751dea39b0</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqStartFlow</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:22:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:22:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\L1_PhysicalElementsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L1_PhysicalElementsPkg</_hsubsystem>
+					<_hname type="a">reqStartFlow()</_hname>
+					<_hid type="a">GUID 999f94a0-7592-43c4-a639-8240dbaf5c18</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID ce5c5382-0ab6-4020-bd05-86b2fa79f770</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F135_TubingFlowStart</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:15</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\TubingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::TubingPkg</_hsubsystem>
+					<_hclass type="a">Tubing</_hclass>
+					<_hname type="a">F135_TubingFlowStart()</_hname>
+					<_hid type="a">GUID af7e7283-3465-48b5-8cb9-5aced4499e7e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 239b5539-83ec-452c-ae62-fe8baa7b789c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F139_FlowStop</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:27</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\FlowCellPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::FlowCellPkg</_hsubsystem>
+					<_hclass type="a">FlowCell</_hclass>
+					<_hname type="a">F139_FlowStop()</_hname>
+					<_hid type="a">GUID 665e8411-d691-434c-92e7-391c002ed4ba</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 7930bbf6-8aed-485e-9ba8-267bfab36a2b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F138_TubingFlowStop</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:24</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\TubingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::TubingPkg</_hsubsystem>
+					<_hclass type="a">Tubing</_hclass>
+					<_hname type="a">F138_TubingFlowStop()</_hname>
+					<_hid type="a">GUID cf8ac6e9-823c-44e9-9a2f-c3afd3f686c6</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 5767814e-2637-41fb-be2c-c056184682f5</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqStopFlow</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:23:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:23:3</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\L1_PhysicalElementsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L1_PhysicalElementsPkg</_hsubsystem>
+					<_hname type="a">reqStopFlow()</_hname>
+					<_hid type="a">GUID 4fde65ee-ffde-40b9-85ca-fff5aa27cabf</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 5ff307e4-261a-4f30-9e92-ce61f8e8960e</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F137_CollectWasteLiq</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\WastePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::WastePkg</_hsubsystem>
+					<_hclass type="a">Waste</_hclass>
+					<_hname type="a">F137_CollectWasteLiq()</_hname>
+					<_hid type="a">GUID de1bc0de-ab93-4da1-9124-4e6cdd808037</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 2cca3131-c129-48fa-8a16-77fd03bf81d3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F136_LiquidFlow</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:18</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\FlowCellPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::FlowCellPkg</_hsubsystem>
+					<_hclass type="a">FlowCell</_hclass>
+					<_hname type="a">F136_LiquidFlow()</_hname>
+					<_hid type="a">GUID 456b224b-ed6f-4d8d-a057-0fc44d3602c7</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 19e00c56-448d-451a-b65e-3cf4ed7c756a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F140_EMMoveToPosition</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::8:3:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.8.2020::8:3:31</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\ElevatorMotorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::ElevatorMotorPkg</_hsubsystem>
+					<_hclass type="a">ElevatorMotor</_hclass>
+					<_hname type="a">F140_EMMoveToPosition()</_hname>
+					<_hid type="a">GUID ce5c633b-f638-4c25-8f3f-c831b64f14c7</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 49d1a320-e852-4824-8671-8ad46a42ddc2</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F132_PStartFlow</_name>
+			<_modifiedTimeWeak type="a">7.6.2020::7:44:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.6.2020::7:44:46</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\DriverCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::DriverCardPkg</_hsubsystem>
+					<_hclass type="a">DriverCard</_hclass>
+					<_hname type="a">F132_PStartFlow()</_hname>
+					<_hid type="a">GUID 0aa2af84-08c7-40bd-b52f-022d6965d71b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID a8894be5-c534-4477-95dd-5083185c8db9</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F133_EMGotoPosition</_name>
+			<_modifiedTimeWeak type="a">7.6.2020::7:44:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.6.2020::7:44:49</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\DriverCardPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::DriverCardPkg</_hsubsystem>
+					<_hclass type="a">DriverCard</_hclass>
+					<_hname type="a">F133_EMGotoPosition()</_hname>
+					<_hid type="a">GUID eed2bf36-75a7-47b7-b62b-dd871b5642b0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 12d16b15-a2a3-47cf-87af-ae176d72ac02</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 2ed15a13-fcad-430f-9832-f0b6fb377029</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Analyser</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">3</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">L1</_hname>
+							<_hid type="a">GUID caad428f-23c9-4678-979f-b9513432e2d1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">logical</_hname>
+							<_hid type="a">GUID 1988bc52-c479-42fd-b97c-1e7ad129b2ef</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.9.2020::11:32:15</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\SystemPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::SystemPkg</_hsubsystem>
+					<_hname type="a">Logical Decomposition</_hname>
+					<_hid type="a">GUID d4e765b6-d739-42d0-86ed-d48eccf3fdd4</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.9.2020::11:32:15</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.9.2020::11:32:15</weakCGTime>
+			<strongCGTime type="a">2.5.2019::5:22:57</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID b92d4bb9-1c78-4446-9b63-edc76711f72a</value>
+				<value>GUID 7bb7bf8c-2259-42af-8483-111c5cfb0e28</value>
+				<value>GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</value>
+			</AggregatesList>
+		</IClass>
+		<IDependency type="e">
+			<_id type="a">GUID b92d4bb9-1c78-4446-9b63-edc76711f72a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">OD_AN_PerformAnalysisPkg</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\POC_SystemModel.rpyx</_hfilename>
+							<_hsubsystem type="a">SystemModel::CommonDefinitionsPkg</_hsubsystem>
+							<_hname type="a">analysed by</_hname>
+							<_hid type="a">GUID 76933acd-eb36-442a-9bd9-da8637a24287</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.7.2019::9:47:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.7.2019::9:47:54</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\OD_AN_PerformAnalysisPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::OperationDesignsPkg::OD_LogicalElementsPkg::OD_AnalyserDesignPkg</_hsubsystem>
+					<_hname type="a">OD_AN_PerformAnalysisPkg</_hname>
+					<_hid type="a">GUID 90c8cdee-410e-4bd6-9b2f-239c3a06fb79</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 2ed15a13-fcad-430f-9832-f0b6fb377029</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPort type="e">
+			<_id type="a">GUID 7bb7bf8c-2259-42af-8483-111c5cfb0e28</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">port_oc</_name>
+			<_modifiedTimeWeak type="a">2.15.2019::11:27:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.15.2019::11:27:12</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 4808333c-8773-4a68-b3d3-d964a7f5f130</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID 4808333c-8773-4a68-b3d3-d964a7f5f130</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">port_oc_implicitContract</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">2.15.2019::11:27:12</_modifiedTimeWeak>
+				<_modifiedTime type="a">2.15.2019::11:27:12</_modifiedTime>
+				<weakCGTime type="a">2.15.2019::11:27:12</weakCGTime>
+				<strongCGTime type="a">2.15.2019::11:27:12</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+		</IPort>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F320_PerformAnalysis</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::11:32:15</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset162{\*\fname Arial;}Arial TUR;}{\f1\fnil\fcharset0 Arial;}}%0D
+{\colortbl ;\red0\green0\blue255;}%0D
+\viewkind4\uc1\pard\cf1\lang1055\ul\protect\f0\fs20 Analysis is initiated.\cf0\lang2057\ulnone\protect0\f1\par%0D
+}%0D
+</_textRTF>
+				<Hyperlinks type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IInternalHyperlink type="e">
+							<_name type="a">Analysis is initiated.</_name>
+							<_textType type="a">FREE</_textType>
+							<_target type="r">
+								<IHandle type="e">
+									<_hm2Class type="a">IDiagram</_hm2Class>
+									<_hsubsystem type="a">SystemModel::FunctionalModelPkg</_hsubsystem>
+									<_hname type="a">Func_Perform_Analysis</_hname>
+									<_hid type="a">GUID 2d8dbe3a-2703-45fc-ba98-147bab209ba9</_hid>
+								</IHandle>
+							</_target>
+						</IInternalHyperlink>
+						
+					</IRPYRawContainer>
+				</Hyperlinks>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::11:32:15</_modifiedTime>
+			<_lastID type="a">9</_lastID>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 1e4c780b-fe4a-4e72-b4e9-ead727208e84</value>
+				<value>GUID 72a54b67-5021-4f18-a149-a865c8af7ff4</value>
+				<value>GUID b32a95b4-5b19-4cc6-9132-5edf7e3e1d81</value>
+				<value>GUID a343925c-5b70-4553-b016-1ef514cb31dc</value>
+				<value>GUID 29cbb482-9192-488e-9246-e7550ad19317</value>
+				<value>GUID 0a2fd112-1f28-430d-bfe4-d2db4d36a610</value>
+				<value>GUID 5a5eaa93-ec79-4747-b738-314aca5e3f9e</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IDependency type="e">
+			<_id type="a">GUID 1e4c780b-fe4a-4e72-b4e9-ead727208e84</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F321_EnterAnalysisTypeandCondition</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:38:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:38:55</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F321_EnterAnalysisTypeandCondition()</_hname>
+					<_hid type="a">GUID a7833be3-e77b-4aa5-a389-2492544e9d47</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 72a54b67-5021-4f18-a149-a865c8af7ff4</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F322_PerformAnalysis</_name>
+			<_modifiedTimeWeak type="a">5.21.2020::11:39:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.21.2020::11:39:1</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F322_PerformAnalysis()</_hname>
+					<_hid type="a">GUID 1f979647-b316-4398-bd5b-a6a88f332ea3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID b32a95b4-5b19-4cc6-9132-5edf7e3e1d81</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F324_DisplaySignal</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::6:42:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::6:42:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F324_DisplaySignal()</_hname>
+					<_hid type="a">GUID 64013d5a-fb85-4aaf-b1df-0d37ec125467</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID a343925c-5b70-4553-b016-1ef514cb31dc</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F323_GetSignal</_name>
+			<_modifiedTimeWeak type="a">7.6.2020::7:44:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.6.2020::7:44:59</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F323_GetSignal()</_hname>
+					<_hid type="a">GUID 070850ca-d38b-4635-b11c-914c6aaaa751</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 29cbb482-9192-488e-9246-e7550ad19317</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F325_DisplayResult</_name>
+			<_modifiedTimeWeak type="a">7.6.2020::7:45:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.6.2020::7:45:3</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F325_DisplayResult()</_hname>
+					<_hid type="a">GUID a838f6ff-406b-4a15-abff-8db1a83b54b2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 0a2fd112-1f28-430d-bfe4-d2db4d36a610</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F326_ConvertSignaltoResult</_name>
+			<_modifiedTimeWeak type="a">7.6.2020::7:45:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.6.2020::7:45:7</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\UserApplicationSWPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::PhysicalModelPkg::L2_PhysicalElementsPkg::UserApplicationSWPkg</_hsubsystem>
+					<_hclass type="a">UserApplicationSW</_hclass>
+					<_hname type="a">F326_ConvertSignaltoResult()</_hname>
+					<_hid type="a">GUID 04677ef7-198c-4b6d-af07-356ce38d765e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 5a5eaa93-ec79-4747-b738-314aca5e3f9e</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">F327_ReadResult</_name>
+			<_modifiedTimeWeak type="a">7.6.2020::7:45:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.6.2020::7:45:10</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hfilename type="a">.\ActorsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::ActorsPkg</_hsubsystem>
+					<_hclass type="a">DeviceOperator</_hclass>
+					<_hname type="a">F327_ReadResult()</_hname>
+					<_hid type="a">GUID bd769fe1-2fd0-4b97-a619-899ed08018c0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IPrimitiveOperation</_hm2Class>
+					<_hid type="a">GUID 7f8cfcd7-5743-4121-a8c5-47c93a783da9</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

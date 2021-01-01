@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 37ec89fd-fbcd-4d16-8e1a-a800eea68702</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ActorsPkg</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:30:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.9.2020::6:39:10</_modifiedTime>
+			<weakCGTime type="a">7.9.2020::6:30:31</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:9</strongCGTime>
+			<_defaultComposite type="s">GUID 730691da-a2f1-496a-b2dc-9edb5c8a1f85</_defaultComposite>
+			<_eventsBaseID type="a">2001</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 730691da-a2f1-496a-b2dc-9edb5c8a1f85</value>
+				<value>GUID e76f0d1a-3527-418a-92f4-babb019b2e87</value>
+				<value>GUID 7ed24414-3138-464b-b0e4-5cae77584a8a</value>
+				<value>GUID d7601b87-d1e6-4baf-85c6-8c4051205077</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 730691da-a2f1-496a-b2dc-9edb5c8a1f85</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:9</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:9</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:9</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IEvent type="e">
+			<_id type="a">GUID e76f0d1a-3527-418a-92f4-babb019b2e87</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MoleculeStatus</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:30:31</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Assay result, that is the Molecule status is determined.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:30:31</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 7ed24414-3138-464b-b0e4-5cae77584a8a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ConvertSignalToResult</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::6:13:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::6:13:59</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IActor type="e">
+			<_id type="a">GUID d7601b87-d1e6-4baf-85c6-8c4051205077</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DeviceOperator</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:33:1</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\FTAModelPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::RiskManagementModelPkg::RiskAnalysisModelPkg::SafetyModelPkg::FTAModelPkg::FTA_Erroneous_RunAssay</_hsubsystem>
+					<_hname type="a">FTA_E103_PerformAnalysis</_hname>
+					<_hid type="a">GUID 5d259d2d-da54-495c-98f9-e853e14b0a5b</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">%0D
+Device Operator</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:33:1</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.9.2020::6:33:1</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:9</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 051616fc-d27c-4c29-b0e4-8ed0a3815472</value>
+				<value>GUID 61e704a6-89df-4981-8b41-ecc2362f0861</value>
+				<value>GUID bd769fe1-2fd0-4b97-a619-899ed08018c0</value>
+				<value>GUID 6d7d13f2-3ead-4711-ab36-e8caf6d000cb</value>
+			</AggregatesList>
+		</IActor>
+		<IReception type="e">
+			<_id type="a">GUID 051616fc-d27c-4c29-b0e4-8ed0a3815472</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">6.9.2020::6:23:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID e76f0d1a-3527-418a-92f4-babb019b2e87</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 61e704a6-89df-4981-8b41-ecc2362f0861</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F340_QCStatus</_name>
+			<_modifiedTimeWeak type="a">7.9.2020::6:33:1</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Quality control result is displayed.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.9.2020::6:33:1</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID bd769fe1-2fd0-4b97-a619-899ed08018c0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">F327_ReadResult</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::6:42:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::6:42:55</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6d7d13f2-3ead-4711-ab36-e8caf6d000cb</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUCDetectMolecule</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UCDetectMoleculePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::UseCasesPkg::UCDetectMoleculePkg</_hsubsystem>
+					<_hname type="a">UCDetectMolecule</_hname>
+					<_hid type="a">GUID 34186b59-0cbf-4a26-801e-b33e9cb5c6d4</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UCDetectMoleculePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">SystemModel::SystemArchitectureModelPkg::ContextModelPkg::UseCasesPkg::UCDetectMoleculePkg</_hsubsystem>
+					<_hclass type="a">UCDetectMolecule</_hclass>
+					<_hname type="a">itsDeviceOperator</_hname>
+					<_hid type="a">GUID c4e07ec8-cb41-4acd-a274-fb5e25cab248</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

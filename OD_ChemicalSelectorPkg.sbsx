@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID b873b3ae-91a8-45be-bff8-aaa65b29ca1f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">OD_ChemicalSelectorPkg</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:17</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">3.12.2019::14:51:17</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:17</strongCGTime>
+			<_defaultComposite type="s">GUID 3941b320-bc56-4892-9cd0-5f89b217c545</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 0905c043-9750-4935-8401-1db2dcce81c8</value>
+				<value>GUID 3941b320-bc56-4892-9cd0-5f89b217c545</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">OD_CS_SelectChemicalPkg</fileName>
+			<_id type="a">GUID 0905c043-9750-4935-8401-1db2dcce81c8</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 3941b320-bc56-4892-9cd0-5f89b217c545</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.12.2019::14:51:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.12.2019::14:51:17</_modifiedTime>
+			<weakCGTime type="a">3.12.2019::14:51:17</weakCGTime>
+			<strongCGTime type="a">3.12.2019::14:51:17</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

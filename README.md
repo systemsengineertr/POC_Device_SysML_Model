@@ -10,5 +10,5 @@ LICENSE
 The content of this project itself is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Please contact for commercial use: uludagyildiz@gmail.com
+Please contact for commercial use: uludagyildiz (at)gmail.com
 

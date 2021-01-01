@@ -1,7 +1,7 @@
 # POC_Device_SysML_Model
 SysML System Architecture and Risk Management Model of a Point-of-care testing device.
 
-Download and open in IBM Rational Rhapsody 8.4 and above.
+Download from GitHub and open in IBM Rational Rhapsody 8.4 and above.
 
 SysML Model Copyright © 2021 Y. Uludağ, E. Evin and N.G. Gürbüz.
 

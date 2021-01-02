@@ -9,8 +9,5 @@ For system architecture model please refer to: https://ieeexplore.ieee.org/abstr
 
 For risk management model please refer to: xxxxxx
 
-LICENSE
-
-The content of this project itself is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
 

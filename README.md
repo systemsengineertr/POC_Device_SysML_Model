@@ -5,6 +5,9 @@ Download from GitHub and open in IBM Rational Rhapsody 8.4 and above.
 
 SysML Model Copyright © 2021 Y. Uludağ, E. Evin and N.G. Gürbüz.
 
+For system architecture model please refer to: https://ieeexplore.ieee.org/abstract/document/9115855
+For risk management model please refer to: xxxxxx
+
 LICENSE
 
 The content of this project itself is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.

@@ -10,7 +10,7 @@ For system architecture model please refer to: https://ieeexplore.ieee.org/abstr
 For risk management model please refer to: xxxxxx
 
 To Download The Model:
-Go to the home page of the git repo and you'll see a small green button at the top right saying clone or zip/download. Click and download.
+Go to the home page of the git repo and you'll see a small green button at the top right saying "CODE". Click and download.
 
 
 

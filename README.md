@@ -9,6 +9,10 @@ For system architecture model please refer to: https://ieeexplore.ieee.org/abstr
 
 For risk management model please refer to: https://www.researchgate.net/publication/364226700_Integration_of_systems_design_and_risk_management_through_model-based_systems_development 
 
+For supplementary material containing model diagrams:
+
+https://incose.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsys.21643&file=sys21643-sup-0001-SuppMat.docx
+
 To Download The Model:
 Go to the home page of the git repo and you'll see a small green button at the top right saying "CODE". Click and download.
 
